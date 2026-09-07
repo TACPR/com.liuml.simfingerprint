@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM 指纹登录</string>
+    <string name="xposed_description">用强指纹解锁加密保存的 SIM PIN，仅适配登录认证弹窗。</string>
+    <string name="biometric_title">验证指纹</string>
+    <string name="biometric_subtitle">确认本次 SIM 登录</string>
+    <string name="biometric_cancel">取消并手动输入</string>
+    <string name="enroll_biometric_title">保护 SIM PIN</string>
+    <string name="enroll_biometric_subtitle">验证指纹后加密保存</string>
+</resources>
+

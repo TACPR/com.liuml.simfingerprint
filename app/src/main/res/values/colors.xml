@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#2356C7</color>
+    <color name="brand_primary_dark">#183C8F</color>
+    <color name="page_background">#F5F7FB</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="text_primary">#172033</color>
+    <color name="text_secondary">#5F6B7A</color>
+    <color name="status_ok">#19764B</color>
+    <color name="status_warn">#A05A00</color>
+</resources>
+
