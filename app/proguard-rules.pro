@@ -1,2 +1,2 @@
--keep class com.liuml.simfingerprint.xposed.StkFingerprintHook { *; }
+-keep class io.github.tacpr.simfingerprint.xposed.StkFingerprintHook { *; }
 

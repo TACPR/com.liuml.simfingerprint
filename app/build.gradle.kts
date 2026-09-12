@@ -4,16 +4,16 @@ plugins {
 }
 
 android {
-    namespace = "com.liuml.simfingerprint"
+    namespace = "io.github.tacpr.simfingerprint"
     compileSdkVersion("android-37.0")
     buildToolsVersion = "35.0.0"
 
     defaultConfig {
-        applicationId = "com.liuml.simfingerprint"
+        applicationId = "io.github.tacpr.simfingerprint"
         minSdk = 28
         targetSdk = 35
-        versionCode = 8
-        versionName = "0.1.7"
+        versionCode = 9
+        versionName = "0.1.8"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

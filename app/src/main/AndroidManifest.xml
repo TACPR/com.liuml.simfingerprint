@@ -42,7 +42,7 @@
 
         <provider
             android:name=".auth.AuthProvider"
-            android:authorities="com.liuml.simfingerprint.auth"
+            android:authorities="io.github.tacpr.simfingerprint.auth"
             android:exported="true"
             android:grantUriPermissions="false" />
 
